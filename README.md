@@ -1,5 +1,5 @@
 # :wave: The Basics of GitHub 
-## Edited By Arpit
+## Edit By Arpit
 
 ## 🤓 Course overview and learning outcomes 
 
